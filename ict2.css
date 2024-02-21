@@ -240,3 +240,8 @@ body .container5 {
 body .container5.visible {
     display: none;
 }
+
+body #cover #option .click:hover{
+    background-color: #fff;
+    color: #a842c1;
+}
